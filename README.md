@@ -1,0 +1,2 @@
+# Statistical-Analysis-of-Drug-Prescription-Patterns-
+This represents an exploratory and inferential statistical analysis of a clinical dataset  containing information about patients and the medications prescribed to them. Using  RStudio we evaluate the influence of biological and demographic factors such as Age,  Blood pressure, Cholesterol, Sodium and Potassium levels on the type of drug prescribed.
